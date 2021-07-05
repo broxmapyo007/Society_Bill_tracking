@@ -1,0 +1,8 @@
+tkinter
+os
+sys
+webbrowser
+datetime
+PyQt5
+sqlite3
+Pmw
